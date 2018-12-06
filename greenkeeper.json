@@ -1,0 +1,9 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "activityoverlord20/package.json"
+      ]
+    }
+  }
+}
